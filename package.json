@@ -1,0 +1,23 @@
+{
+  "name": "rainbotx",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "generate-password": "^1.4.0",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.22.2",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "batuhan",
+  "license": "ISC"
+}
